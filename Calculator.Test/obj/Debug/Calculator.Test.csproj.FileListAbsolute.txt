@@ -1,0 +1,7 @@
+E:\Учеба\NixSolutions\Study\Calculator\Calculator.Test\bin\Debug\Calculator.Test.dll
+E:\Учеба\NixSolutions\Study\Calculator\Calculator.Test\bin\Debug\Calculator.Test.pdb
+E:\Учеба\NixSolutions\Study\Calculator\Calculator.Test\bin\Debug\Calculator.Calculator.exe
+E:\Учеба\NixSolutions\Study\Calculator\Calculator.Test\bin\Debug\Calculator.Calculator.pdb
+E:\Учеба\NixSolutions\Study\Calculator\Calculator.Test\obj\Debug\Calculator.Test.csprojResolveAssemblyReference.cache
+E:\Учеба\NixSolutions\Study\Calculator\Calculator.Test\obj\Debug\Calculator.Test.dll
+E:\Учеба\NixSolutions\Study\Calculator\Calculator.Test\obj\Debug\Calculator.Test.pdb

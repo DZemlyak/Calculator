@@ -1,0 +1,5 @@
+E:\Учеба\NixSolutions\Study\Calculator\Calculator.Calculator\bin\Release\Calculator.Calculator.exe.config
+E:\Учеба\NixSolutions\Study\Calculator\Calculator.Calculator\bin\Release\Calculator.Calculator.exe
+E:\Учеба\NixSolutions\Study\Calculator\Calculator.Calculator\bin\Release\Calculator.Calculator.pdb
+E:\Учеба\NixSolutions\Study\Calculator\Calculator.Calculator\obj\Release\Calculator.Calculator.exe
+E:\Учеба\NixSolutions\Study\Calculator\Calculator.Calculator\obj\Release\Calculator.Calculator.pdb
